@@ -1,0 +1,4 @@
+inflect
+num2words
+Unidecode
+phonemizer
